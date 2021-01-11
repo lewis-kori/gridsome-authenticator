@@ -1,0 +1,16 @@
+{
+  "name": "productAuthenticator",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-qrcode": "^1.0.2",
+    "@gridsome/source-strapi": "^0.2.0",
+    "buefy": "^0.9.4",
+    "gridsome": "^0.7.0",
+    "vue-html-to-paper": "^1.3.1"
+  }
+}
